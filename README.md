@@ -1,24 +1,9 @@
 # vue-cms
 
-## Project setup
-```
-yarn install
-```
+Vue project created with vue cli. That's CRM home system.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Deployed link
 
-### Compiles and minifies for production
-```
-yarn build
-```
+vue-crm-bf232.firebaseapp.com
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
